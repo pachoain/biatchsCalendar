@@ -9,5 +9,6 @@
     <body>
       <?php include 'databaseConnector.php'; ?>
 
+      <?php include 'footer.php'; ?>
     </body>
 </html>
