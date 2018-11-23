@@ -9,5 +9,15 @@
     <body>
       <?php include 'databaseConnector.php'; ?>
 
+        <header>
+            <h3>Les Biatchs</h3>
+            <nav>
+                <a href="index">Accueil</a>
+            </nav>
+        </header>
+
+
+      <?php include 'databaseConnector.php'; ?>
+
     </body>
 </html>
