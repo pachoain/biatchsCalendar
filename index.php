@@ -7,6 +7,7 @@
     </head>
 
     <body>
-      
+      <?php include 'databaseConnector.php'; ?>
+
     </body>
 </html>
